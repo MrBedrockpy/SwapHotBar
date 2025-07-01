@@ -1,0 +1,4 @@
+name: SwapHotBar
+version: '${version}'
+main: ru.mrbedrockpy.swaphotbar.Plugin
+api-version: '1.19'
